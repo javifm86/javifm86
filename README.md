@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Fernández</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **Vue 3**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regulary write articles on [http://www.javifm.com/blog](http://www.javifm.com/blog)
 
